@@ -63,3 +63,4 @@ jobs:
         run: echo "${{ needs.build.outputs.script-file }}"
       - name: Deploy
         run: echo "Deploying..."
+# I passed the GitHub Actions Exam!
